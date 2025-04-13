@@ -7,18 +7,21 @@
 
 ## Profil
 <ul>
-  <li>Nama: {Muhamad Ilham Syihabudin}</li>
-  <li>NIM: {23552011048}</li>
-  <li>Kelas: {TIF RP 23 CID A}</li>
+  <li>Nama: Muhamad Ilham Syihabudin</li>
+  <li>NIM: 23552011048</li>
+  <li>Kelas: TIF RP 23 CID A</li>
 </ul>
 
 ## List Pertanyaan
 <p>1. Cari materi tentang input controls pada Android Native!</p>
 <p>2. Implementasikan 2 input control dibawah ini
-  <li>Date Time</li>
-  <li>Alert</li>
-  <li>Toast</li>
-  <li>Input number phone</li></p>
+  <ul>
+    <li>Date Time</li>
+    <li>Alert</li>
+    <li>Toast</li>
+    <li>Input number phone</li>
+  </ul>
+  </p>
 <p>3. Jelaskan hasil implementasinya!</p>
 
 ## Input Control pada Android Native
