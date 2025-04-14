@@ -1,4 +1,3 @@
-
 # Tugas E-Learning 1 Pemrograman Mobile 1
 <ul>
   <li>Mata Kuliah: Pemrograman Mobile 1</li>
@@ -38,3 +37,7 @@
 
 ### 4. Input number phone
 <p>Komponen UI yang berfungsi untuk menginputkan nomor telepon/teks.</p>
+
+## Input Control yang digunakan
+### 1. Input number Phone
+### 2. Date Time Picker
